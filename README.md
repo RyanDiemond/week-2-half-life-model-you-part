@@ -5,6 +5,7 @@ I started with a rectangle
 
 Then I hollowed it out and put a rectangle over it as a countertop
 <img width="850" height="610" alt="image" src="https://github.com/user-attachments/assets/00fec1b9-e382-4458-80f4-05f452e3d595" />
+<img width="880" height="577" alt="image" src="https://github.com/user-attachments/assets/f273edfe-f881-4136-80f8-9431281afe6c" />
 
 
 I made the shelves
