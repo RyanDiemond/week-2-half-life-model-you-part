@@ -22,6 +22,7 @@ made the doors with rectangles, put hinges on it and put a handle
 
 
 then used filets to make it look better
+<img width="771" height="722" alt="image" src="https://github.com/user-attachments/assets/d4c1b24f-c57d-4901-9b07-803c3d6b545b" />
 
 
 then I put a color on it
