@@ -49,3 +49,4 @@ https://github.com/RyanDiemond/week-2-half-life-model-you-part/blob/main/Part%20
 Step files
 https://github.com/RyanDiemond/week-2-half-life-model-you-part/blob/main/Part%20Studio%201%20-%20Part%201.step
 https://github.com/RyanDiemond/week-2-half-life-model-you-part/blob/main/Part%20Studio%202%20-%20Part%201.stl
+https://github.com/RyanDiemond/week-2-half-life-model-you-part/blob/main/Part%20Studio%203%20-%20Part%201.step
