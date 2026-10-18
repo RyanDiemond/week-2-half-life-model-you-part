@@ -31,6 +31,7 @@ then I put a color on it
 
 
 then assembled the shelf
+<img width="1867" height="835" alt="image" src="https://github.com/user-attachments/assets/bfd4ecc8-3227-4087-bce1-b6fbbc31d4f3" />
 
 
 and here are the doors opening and closing from the hinges.
