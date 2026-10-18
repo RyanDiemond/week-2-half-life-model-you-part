@@ -39,7 +39,5 @@ and here are the doors opening and closing from the hinges.
 https://github.com/RyanDiemond/week-2-half-life-model-you-part/raw/refs/heads/main/2026-10-18%2014-10-42.mkv
 
 
+The STL to it
 
-This is the link to it
-
-(https://cad.onshape.com/documents/76b758ea9a93d9cf144e1d16/w/2bcf1726fbdd060614b01359/e/43cdc388a29f878a73c7582d?configuration=default&renderMode=0&uiState=6ad51d770c6867d8fd176d31)
