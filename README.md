@@ -1,4 +1,5 @@
 I started with a rectangle
+<img width="1530" height="736" alt="image" src="https://github.com/user-attachments/assets/3dcb3bd2-e580-418c-933e-5f4ae0e04b4a" />
 
 Then I hollowed it out and put a rectangle over it as a countertop
 
