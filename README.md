@@ -26,6 +26,7 @@ then used filets to make it look better
 
 
 then I put a color on it
+<img width="876" height="571" alt="image" src="https://github.com/user-attachments/assets/d8c406ff-5095-45ff-8a16-e43d1cb57c0e" />
 
 
 then assembled the shelf
