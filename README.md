@@ -12,6 +12,7 @@ I made the shelves
 
 
 used filets to make it look better
+<img width="1397" height="747" alt="image" src="https://github.com/user-attachments/assets/5363f930-ad94-4d4e-9652-4621426858ce" />
 
 
 made the doors with rectangles, put hinges on it and put a handle
