@@ -40,4 +40,4 @@ https://github.com/RyanDiemond/week-2-half-life-model-you-part/raw/refs/heads/ma
 
 
 The STL to it
-
+https://github.com/RyanDiemond/week-2-half-life-model-you-part/blob/main/Part%20Studio%201%20-%20Part%201.stl
