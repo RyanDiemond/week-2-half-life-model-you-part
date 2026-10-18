@@ -18,6 +18,7 @@ used filets to make it look better
 made the doors with rectangles, put hinges on it and put a handle
 <img width="537" height="635" alt="image" src="https://github.com/user-attachments/assets/7b5fb061-cf4a-4bf5-969f-da993f7711f9" />
 <img width="717" height="486" alt="image" src="https://github.com/user-attachments/assets/051ebff9-9192-4337-813b-7200981b82f9" />
+<img width="492" height="542" alt="image" src="https://github.com/user-attachments/assets/5f00b3df-8dcd-4689-83d9-4305a2d523d8" />
 
 
 then used filets to make it look better
