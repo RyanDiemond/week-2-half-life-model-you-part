@@ -1,5 +1,5 @@
 I started with a rectangle
-
+https://github.com/RyanDiemond/week-2-half-life-model-you-part/blob/main/Screenshot%202026-10-18%20135404.png
 Then I hollowed it out and put a rectangle over it as a countertop
 
 I made the shelves
