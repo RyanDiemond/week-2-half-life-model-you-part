@@ -1,5 +1,4 @@
 I started with a rectangle
-<img width="1530" height="736" alt="image" src="https://github.com/user-attachments/assets/3dcb3bd2-e580-418c-933e-5f4ae0e04b4a" />
 <img width="1292" height="611" alt="image" src="https://github.com/user-attachments/assets/a5fce26d-35b3-4457-9717-e01276ef1917" />
 
 
@@ -9,6 +8,7 @@ Then I hollowed it out and put a rectangle over it as a countertop
 
 
 I made the shelves
+<img width="772" height="560" alt="image" src="https://github.com/user-attachments/assets/03347841-ef38-49e9-aaf0-540d2c0b2671" />
 
 
 used filets to make it look better
